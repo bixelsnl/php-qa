@@ -8,7 +8,7 @@ run all tools at once for convenience.
 Require this package in your project's `composer.json` as follows:
 
 ```
-$ composer require --dev bixelsnl/phpqa
+$ composer require --dev bixelsnl/php-qa
 ```
 
 Add build artifacts to your `/.gitignore`:
