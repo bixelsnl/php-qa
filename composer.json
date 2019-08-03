@@ -1,0 +1,14 @@
+{
+    "name": "bixelsnl/php-qa",
+    "type": "library",
+    "description": "Quality assurance tools for e.g. automated tests and static analysis",
+    "license": "proprietary",
+    "require": {
+        "phing/phing": "^2.16.1",
+        "phpmd/phpmd": "^2.6.0",
+        "phpunit/phpunit": "^6.5.6",
+        "mockery/mockery": "^1.2.0",
+        "friendsofphp/php-cs-fixer": "^2.14"
+    },
+    "prefer-stable" : true
+}
